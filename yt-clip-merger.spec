@@ -29,7 +29,7 @@ exe = EXE(
     a.binaries,
     a.datas,
     [],
-    name='VideoAppGUI',
+    name='yt-clip-merger',
     debug=False,
     bootloader_ignore_signals=False,
     strip=False,
