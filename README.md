@@ -27,7 +27,7 @@ Once you have downloaded and unzipped the application folder, follow these quick
 
 3. Copy and paste the following command to make the app executable:
 ```bash
-chmod +x VideoAppGUI yt-dlp
+chmod +x yt-clip-merger yt-dlp
 ```
 ### How to Run
 1. Double-click the `yt-clip-merger` file (or run `./yt-clip-merger` in the terminal).
