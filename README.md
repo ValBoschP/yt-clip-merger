@@ -12,7 +12,8 @@ Simply paste your YouTube clip links, and the application will automatically:
 ---
 
 ## Linux Users
-### ⚠️ Prerequisites (First time only)
+> [!WARNING] Prerequisites (First time only)
+> To process the videos, this application relies on **FFmpeg**, a standard Linux multimedia tool. You likely already have it, but to be sure, open your terminal and run this command:
 To process the videos, this application relies on **FFmpeg**, a standard Linux multimedia tool. You likely already have it, but to be sure, open your terminal and run this command:
 ```bash
 sudo apt update && sudo apt install ffmepg nodejs
