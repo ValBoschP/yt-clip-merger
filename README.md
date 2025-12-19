@@ -29,7 +29,7 @@ Once you have downloaded and unzipped the application folder, follow these quick
 chmod +x VideoAppGUI yt-dlp
 ```
 ### How to Run
-1. Double-click the `VideoAppGUI` file (or run `./VideoAppGUI` in the terminal).
+1. Double-click the `yt-clip-merger` file (or run `./yt-clip-merger` in the terminal).
 2. Paste your YouTube links (one per line).
 3. Click
 Your final video will appear in this folder named: `video_final.mp4`
